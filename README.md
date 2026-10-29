@@ -1,9 +1,9 @@
 # Previsão de preços de Airbnb em Nova York
 
-**APS2 — Modelagem, Avaliação e Interpretação**
+**APS2 — Modelagem, Avaliação e Interpretação**  
 **Membros:** Arthur Sampaio Bernardes e Guilherme Kenzo Taba Nakamura
 
-📄 **Documentação completa (notebook renderizado):** https://SEU-USUARIO.github.io/NOME-DO-REPO/
+📄 **Documentação completa (notebook renderizado):** https://guilhermetaba.github.io/regressao-ml/
 
 ## Sobre o projeto
 
